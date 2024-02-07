@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nehabijoy
-- 👀 I’m interested in Computer Science. 
-- 🌱 I’m currently learning Software Design and Data Structures.
+- 👀 I’m majoring in Computer Science. 
+- 🌱 I’m currently learning Intro to Computer Organization
 - 💞️ I’m looking to collaborate on projects!
 
 <!---
