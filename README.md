@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on **learning react, C**
 
-- 🌱 I’m currently learning **Frameworks, courses, etc.**
+- 🌱 I’m currently learning **Frameworks, courses, Gen AI, etc.**
 
 - 👯 I’m looking to collaborate on **many projects**
 
-- 🤝 I’m looking for help with **learning ML/AI**
+- 🤝 I’m looking for help with **learning AI/ML**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Python, Java, Research, Web Development**
 
-- 📫 How to reach me **nehabijoy@vt.edu**
+- 📫 How to reach me **nehabijoy100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
