@@ -7,7 +7,7 @@
 --->
 
 <h1 align="center">Hi 👋, I'm Neha Bijoy!</h1>
-<h3 align="center">A passionate and eager Junior in college.</h3>
+<h3 align="center">A passionate and eager Senior in college.</h3>
 
 - 🔭 I’m currently working on **learning react, C**
 
